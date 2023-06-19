@@ -5,7 +5,7 @@ This is my first time learning Python, and it has been a very fun and interestin
 # Magic 8 Ball
 This was a small and quick project that covered if and else statements and also used the random function to generate random numbers. This project was fairly easy to understand as it was a basic introduction and usage of if loops.
 
-Carly's Clippers
+# Carly's Clippers
 In this project, I used lists, loops, length, and range functions. I used a for loop to iterate through the list and to do a calculation with the values from the list. I also used the length function to calculate the average of one of the lists. Furthermore, I used string interpolation to then output that calculated value. This project was a bit more challenging as this was the first time I worked with for loops. This project also helped me understand the importance of indentations and how they can change the flow of a project.
 
 # Functions
